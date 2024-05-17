@@ -1,0 +1,14 @@
+{
+  "name": "we_ship_test_backend",
+  "version": "1.0.0",
+  "description": "a test backend for we ship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Alejandro Flores Saldaña",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
